@@ -39,13 +39,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekT-12&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/AbhishekT-12/output/github-contribution-grid-snake.svg" />
 
 </p>
 
