@@ -45,7 +45,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/AbhishekT-12/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/AbhishekT-12/AbhishekT-12/output/github-contribution-grid-snake.svg" />
 
 </p>
 
@@ -53,11 +53,11 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AbhishekT-12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/abhishek-t-ab5714276">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
