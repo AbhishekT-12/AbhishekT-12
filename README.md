@@ -28,26 +28,7 @@
 
 </p>
 
-### 🚀 Projects
 
-- 🏥 **MediCare Management System**
-- 🅿️ **Parking Management System**
-- 🎭 **Deepfake Detection**
-- 🧠 **Brain Tumor Detection**
-
-### 📊 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekT-12&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AbhishekT-12/AbhishekT-12/output/github-contribution-grid-snake.svg" />
-
-</p>
 
 ### 🤝 Connect With Me
 
